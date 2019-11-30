@@ -1,0 +1,2 @@
+# DataScience
+Veri madenciliği çalışmaları
